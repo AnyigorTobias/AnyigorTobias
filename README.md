@@ -30,6 +30,7 @@ I am Anyigor Tobias. As of the time of writing this, I have a B.Eng. Degree in C
 * [Guides on data preprocessing for machine learning engineers](https://medium.com/@anuelsontobby/guides-on-data-preprocessing-for-machine-learning-engineers-db2c26de8a1). Medium
 * [Hyperparameter tuning of XGBregressor using Random Search Cv](https://tobai.hashnode.dev/hyperparameter-tuning-of-xgbregressor-model-using-randomized-search) Hashnode
 * [How to set up virtual environment for model development: a beginner-friendly guide](https://medium.com/@anuelsontobby/how-to-set-up-virtual-environments-for-model-development-a-beginner-friendly-guide-cab6ecd6a8b3)
+* [Article on tekedia digital marketing strategy](https://medium.com/@anuelsontobby/scale-your-business-in-2023-using-tekedias-winning-digital-strategy-8faa0ec3c001)
 
 ### Workshops
 * Organized [Introduction to Power Query](https://web.facebook.com/anuelson.tobias/posts/pfbid02q7w9238SxCGpWzG4Eir2fCaBuVpEByZpjF66jNn4ATjXxxRoA8nCotkugvHn7kcBl)
